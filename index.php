@@ -1,5 +1,5 @@
 <?php
-phpinfo();
+
 // $_POST is een PHP variabele die form-gegevens opslaat.
 // We kunnen controleren of een formulier verzonden is 
 //   door het aantal items in $_POST te tellen.
